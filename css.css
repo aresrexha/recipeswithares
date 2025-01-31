@@ -1,0 +1,103 @@
+body{
+	background-color: #959D90;
+}
+
+nav{
+	background-color: #899481;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	list-style-type: none;
+	padding-left: 650px;
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+	margin: 0 15px;
+	font-size: 18px;
+	list-style-type: none;
+	padding: 60px;
+}
+
+nav a:hover{
+	text-decoration: underline;
+	font-size: 15px;
+	color: white;
+}
+
+.nn{
+	text-align: center;
+	color: white;
+}
+
+.spa{
+	border-radius: 25px;
+  background: #899481;
+  padding: 20px;
+  width: 30%;
+  height: 30%;
+  margin-left:70px;
+  margin-top: 70px;
+  width:115%;
+  height:85%;
+
+}
+
+.nnn{
+	color: white;
+	font-size: 50px;
+	display:flex;
+	flex-direction:row;
+	gap: 200px;
+	width:100%;
+}
+
+.pz{
+	color: white;
+	font-size: 50px;
+	display:flex;
+	flex-direction:row;
+	gap: 90px;
+}
+
+a{
+	width: 100%;
+	
+}
+
+.pic{
+	color: white;
+	font-size: 70px;
+
+
+	
+
+	
+	display:flex;
+	flex-direction:row;
+	
+}
+
+.form{
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	padding-top: 100px;
+}
+
+.button{
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+input{
+	width: 250px;
+    height: 20px;
+}
+
+.cook{
+	text-align: center;
+	color: white;
+}
